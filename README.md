@@ -2,7 +2,7 @@
 
 Y染色体分类树
 
-[AMY-TREE](https://raw.githubusercontent.com/fjkfwz/AMY-Tree/master/AmyTree.png)
+![AMY-TREE](https://raw.githubusercontent.com/fjkfwz/AMY-Tree/master/AmyTree.png)
 
 AMY算法可以对确定Y染色体单倍群提供准确的意见，已经通过来自不同地区的109个男性的全基因组数据来成功的验证AMY树的准确度，AMY树搜索算法使用Y染色体单倍群树，并且可以查找步骤拆分为各个子算法来并行的加快程序的处理速度，通过判断每个节点的状态来确定样品所在的染色体单倍群，AMY树的算法如下：
 
