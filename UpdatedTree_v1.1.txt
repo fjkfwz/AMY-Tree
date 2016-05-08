@@ -1,0 +1,359 @@
+Root	Root	-	-																								
+A1b	A-V148*	Root	V148	V149	V154	V157	V163	V165	V166	V167	V172	V173	V177	V190	V196	V223	V225	V229	V233	V239							
+A1b1	A-V150*	A1b	V150	V153	V158	V159	V162	V164																			
+A1b1a	A-V151*	A1b1	V151	V181																							
+A1b1a1	A-P114	A1b1a	P114	V169	V176																						
+A1a-T	A1a-T-V168*	Root	V168	V171	V174	V203	V238	V241	V250																		
+A1a	A-V4*	A1a-T	M31	P82	V4	V14	V15	V25	V26	V28	V30	V40	V48	V57	V58	V63	V76	V191	V201	V204	V215						
+A1a1	A-V53	A1a	V53	V147	V214	V236																					
+A2-T or A2-A3	A2-T-V221* or A2-A3-V249*	A1a-T	V221	P108																							
+A2	A-V50*	A2-T or A2-A3	P3	V50	V60	V61	V70	V72	V79	V80	V81	V82	V180	V188	V192	V198	V200	V224	V228	V242							
+A2a	A-M114	A2	M114	V73																							
+A2b	A-P28	A2	P28																								
+A2c or A2c1	A-P262* or A-V218	A2	P262																								
+A3	A-M32*	A2-T or A2-A3	M32	P289	V1	V194	V230																				
+A3a	A-M28	A3	M28																								
+A3b	A-M144*	A3	M144	V51	V56	V156	V160																				
+A3b1	A-M51*	A3b	M51	V2	V33	V34	V262	V265	V313	V314																	
+A3b1a	A-P71	A3b1	P71	P102																							
+A3b1b	A-V11	A3b1	V11	V37																							
+A3b1c	A-V306	A3b1	V306																								
+A3b2	A-M13*	A3b	M13	V10	V56	V89	V155	V193	V243	V305																	
+A3b2a	A-M171	A3b2	M171																								
+A3b2b	A-M118	A3b2	M118																								
+A3b2c	A-V3	A3b2	V3																								
+A3b2d	A-V67	A3b2	V67																								
+A3b2e	A-V317	A3b2	V317																								
+BT	BT-V21*	A2-T or A2-A3	V21	V29	V31	V59	V64	V102	V187	V202	V216	V235															
+B	B-M60*	BT	V244																								
+B1	B-M236*	B	M236	M288																							
+B1a	B-M146	B1	M146																								
+B2	B-M182*	B	M182	V85	V90	V94	V220	V234	V237																		
+B2a	B-M150*	B2	M150	V93																							
+B2a1	B-V78*	B2a	V78																								
+B2a1a	B-V75*	B2a1	V75	V197																							
+B2a1a1	B-M108.1	B2a1a	M108.1																								
+B2a1a2	B-M218*	B2a1a	M218																								
+B2a1a2a	B-V62*	B2a1a2	V62	V227																							
+B2a1a2a1	B-V254	B2a1a2a	V254																								
+B2a1a2a2	B-M109*	B2a1a2a	M109	V217																							
+B2a1a2a2a	B-P50	B2a1a2a2	V83	V165																							
+B2b	B-M112*	B2	M112																								
+B2b1	B-M192	B2b	50F2(P)	M192																							
+B2b2	B-P112	B2b	P112	V341																							
+CT	CT-V9*	BT	V9	V41	V52	V54	V55	V189	V226																		
+DE	DE-M145*	CT	M145	M203	P144	P153	P165	P167	P183																		
+D or D1	D-M174* or D-M15*	DE	M174	-21355																							
+D1a	D-N1*	D or D1	N1																								
+D1a1	D-N2	D1a	N2																								
+D2	D-M55*	D or D1	M55	M179	P41.1	P190																					
+D2a	D-M116.1*	D2	M116.1																								
+D2a1	D-M125*	D2a	M125																								
+D2a1a	D-P42*	D2a1	P42																								
+D2a1a1	D-P12.1	D2a1a	P12.1	P12.2	P12.3																						
+D2a1b	D-0022457*	D2a1	-22457																								
+D2a1b1	D-P53.2	D2a1b	P53.2																								
+D2a2	D-M151	D2a	M151																								
+D2a3	D-P120	D2a	P120																								
+D3	D-P99*	D or D1	P99																								
+D3a	D-P47	D3	P47																								
+E	E-SRY4064*	DE	SRY4064	M96	P29	P150	P152	P154	P155	P156	P162	P168	P169	P170	P171	P172	P173	P174	P175	P176							
+E1	E-P147*	E	P147																								
+E1a	E-M33*	E1	M33	M132																							
+E1a1	E-M44	E1a	M44																								
+E1a2	E-P110	E1a	P110																								
+E1b	E-P177*	E1	P177																								
+E1b1	E-P2*	E1b	P2	P179	P180	P181																					
+E1b1a	E-V38*	E1b1	V38																								
+E1b1a1	E-M2*	E1b1a	M2	V95	V43	M180	P1	P182	P189	P278.1	P293	P46															
+E1b1a1a	E-M58	E1b1a1	M58																								
+E1b1a1b	E-M116.2	E1b1a1	M116.2																								
+E1b1a1c	E-M149	E1b1a1	M149																								
+E1b1a1d	E-M155	E1b1a1	M155																								
+E1b1a1e	E-M10	E1b1a1	M10	M66	M156	M195																					
+E1b1a1f	E-M191*	E1b1a1	M191	P253	U186																						
+E1b1a1f1	E-U174*	E1b1a1f	U174																								
+E1b1a1f1a	E-P9.2	E1b1a1f1	P9.2																								
+E1b1a1f1b	E-P115	E1b1a1f1	P115																								
+E1b1a1f1c	E-P116*	E1b1a1f1	P116																								
+E1b1a1f1c1	E-P113	E1b1a1f1c	P113																								
+E1b1a1g	E-U175*	E1b1a1	U175																								
+E1b1a1g1	E-U209*	E1b1a1g	U209	P277	P278																						
+E1b1a1g1a	E-U290*	E1b1a1g1	U290																								
+E1b1a1g1a1	E-U181	E1b1a1g1a	U181																								
+E1b1a1g1b	E-P59	E1b1a1g1	P59																								
+E1b1a1g1c	E-M154	E1b1a1g1	M154																								
+E1b1a1g1d	E-V39	E1b1a1g1	V39																								
+E1b1a1h	E-P268	E1b1a1	P268	P269																							
+E1b1a2	E-M329	E1b1a	M329																								
+E1b1b	E-M215*	E1b1	M215																								
+E1b1b1 or E1b1b1a	E-M35.1* or E-V68*	E1b1b	M35.1																								
+E1b1b1a1	E-M78*	E1b1b1a	M78																								
+E1b1b1a1a	E-V12*	E1b1b1a1	V12																								
+E1b1b1a1a1	E-M224	E1b1b1a1a	M224																								
+E1b1b1a1a2	E-V32	E1b1b1a1a	V32																								
+E1b1b1a1b	E-V13*	E1b1b1a1	V13	V36																							
+E1b1b1a1b1	E-V27	E1b1b1a1b	V27																								
+E1b1b1a1b2	E-P65	E1b1b1a1b	P65																								
+E1b1b1a1c	E-V22*	E1b1b1a1	V22																								
+E1b1b1a1c1	E-M148	E1b1b1a1c	M148																								
+E1b1b1a1c2	E-V19	E1b1b1a1c	V19																								
+E1b1b1a1d	E-V65	E1b1b1a1	V65																								
+E1b1b1a1e	E-M521	E1b1b1a1	M521																								
+E1b1b1b	E-V257*	E1b1b1 or E1b1b1a	V257																								
+E1b1b1b1	E-M81*	E1b1b1b	M81																								
+E1b1b1b1a	E-M107	E1b1b1b1	M107																								
+E1b1b1b1b	E-M165	E1b1b1b1	M165	M183																							
+E1b1b1c	E-M123*	E1b1b1 or E1b1b1a	M123																								
+E1b1b1c1 or E1b1b1c1a	E-M34* or E-M84	E1b1b1c	M34																								
+E1b1b1c1b	E-M290	E1b1b1c1 or E1b1b1c1a	M290																								
+E1b1b1c1c	E-V23	E1b1b1c1 or E1b1b1c1a	V23																								
+E1b1b1d	E-V6	E1b1b1 or E1b1b1a	V6																								
+E1b1b1e	E-M293*	E1b1b1 or E1b1b1a	M293																								
+E1b1b1e1	E-P72	E1b1b1e	P72																								
+E1b1b1f	E-V42	E1b1b1 or E1b1b1a	V42																								
+E1b1b1g	E-V92	E1b1b1 or E1b1b1a	V92																								
+E1b1b2	E-V16	E1b1b	V16	M281																							
+E2	E-M75*	E	M75	P68																							
+E2a	E-M41	E2	M41																								
+E2b	E-M54	E2	M54	M90	M98																						
+E2b1	E-M85*	E2b	M85																								
+E2b1a or E2b1a2	E-M200* or E-P258	E2b1	M200																								
+E2b1a1	E-P45	E2b1a or E2b1a2	P45																								
+INGE04	INGE04-P143*	CT	P143																								
+C	C-RPS4Y711*	INGE04	RPS4Y711	M216	P184	P255	P260																				
+C1	C-M8*	C	M8	M105	P122																						
+C1a	C-P121	C1	P121																								
+C2	C-M38*	C	M38																								
+C2a	C-M208*	C2	M208																								
+C2a1	C-P33.1	C2a	P33.1	P33.2	P33.3																						
+C2a2	C-P54	C2a	P54																								
+C3 or C3f	C-M217* or C-P62	C	M217	PK2	P44																						
+C3a	C-M93	C3 or C3f	M93																								
+C3b	C-P39	C3 or C3f	P39																								
+C3c	C-M48	C3 or C3f	M48	M77	M86																						
+C3d	C-M407	C3 or C3f	M407																								
+C3e	C-P53.1	C3 or C3f	P53.1																								
+C4	C-M347*	C	M347																								
+C4a	C-M210	C4	M210																								
+C5	C-M356*	C	M356																								
+C5a	C-P92	C5	P92																								
+C6	C-P55	C	P55																								
+F	F-P14*	INGE04	P14	M89	M213	P133	P134	P135	P136	P138	P139	P140	P141	P142	P145	P146	P148	P149	P151	P157	P158	P159	P160	P161	P163	P166	P187
+F1	F-P91	F	P91	P104																							
+F2	F-M427	F	M427																								
+F3	F-P96	F	P96																								
+F4	F-P254	F	P254																								
+F5	F-M481	F	M481																								
+G	G-M201*	F	M201	P257	Page94	U2	U3	U6	U7	U12	U17	U23	U33														
+G1 or G1a	G-M285* or G-P20	G	M285	M342																							
+G1b	G-P76	G1 or G1a	P76																								
+G2	G-P287*	G	P287																								
+G2a	G-P15*	G2	P15	U5																							
+G2a1	G-P16*	G2a	P16.1	P16.2																							
+G2a1a	G-P18	G2a1	P18.1	P18.2	P18.3																						
+G2a2	G-M286	G2a	M286																								
+G2a3	G-U8*	G2a	U8	M485	M547	L30																					
+G2a3a	G-M406*	G2a3	M406	M461																							
+G2a3a1	G-Page19	G2a3a	Page19																								
+G2a3b	G-P303*	G2a3	P303																								
+G2a3b1	G-U1*	G2a3b	U1																								
+G2a3b1a	G-M527*	G2a3b1	M527																								
+G2a3b1a1	G-U13	G2a3b1a	U13																								
+G2a3b2	G-M426	G2a3b	M426																								
+G2a3b3	G-L497	G2a3b	L497																								
+G2a4	L91	G2a	L91																								
+G2b	G-M287	G2	M287																								
+G2c	G-M377*	G2	M377																								
+G2c1	G-M283	G2c	M283																								
+H	H-M69*	F	M69																								
+H1	H-M52*	H	M52																								
+H1a or H1a1	H-M370* or H-M82*	H1	M370																								
+H1a1a	H-M36	H1a or H1a1	M36	M197																							
+H1a1b	H-M97	H1a or H1a1	M97																								
+H1a1c	H-M138	H1a or H1a1	M138																								
+H2	H-Apt*	H	Apt																								
+H2a	H-P80	H2	P80																								
+H2b	H-P266	H2	P266																								
+INGE05	INGE05-M522*	F	M522	M523																							
+IJ	IJ-P123*	INGE05	P123	P124	P125	P126	P127	P129	P130	M429																	
+I	I-M170*	IJ	M170	P38	M258	U179																					
+I1	I-M253*	I	M253	P30	P40	M450																					
+I1a	I-M21	I1	M21																								
+I1b	I-M227*	I1	M227																								
+I1b1	I-M72	I1b	M72																								
+I1c	I-P109	I1	P109																								
+I1d	I-P259	I1	P259																								
+I1e	I-M507	I1	M507																								
+I2 or I2a	I-P215* or I-P37.2*	I	P215																								
+I2a1	I-M423*	I2 or I2a	M423																								
+I2a1a	I-M359.2	I2a1	M359.2																								
+I2a2	I-M26*	I2 or I2a	M26																								
+I2a2a	I-M161	I2a2	M161																								
+I2b	I-P214*	I2 or I2a	P214	P216	P217	P218																					
+I2b1 or I2b1a or I2b1b	I-M223* or I-M284 or I-M378	I2b	M223	P219	P220	P221	P222	P223																			
+I2b1c	I-P78	I2b1 or I2b1a or I2b1b	P78																								
+I2b1d	I-P95	I2b1 or I2b1a or I2b1b	P95																								
+J	J-M304*	IJ	M304	P209																							
+J1 or J1c	J-M267* or J-M390	J	M267	M497																							
+J1a	J-M62	J1 or J1c	M62																								
+J1b	J-M365.1	J1 or J1c	M365.1																								
+J1d	J-P56	J1 or J1c	P56																								
+J1e	J-P58*	J1 or J1c	P58																								
+J1e1	J-M367.1	J1e	M367.1	M368.1																							
+J1e2	J-M369	J1e	M369																								
+J2	J-M172*	J	M172																								
+J2a or J2a11	J-M410* or J-M419	J2	M410																								
+J2a1	J-M47	J2a or J2a11	M47	M322																							
+J2a2	J-M67*	J2a or J2a11	M67																								
+J2a2a	J-M92*	J2a2	M92																								
+J2a2a1	J-M327	J2a2a	M327																								
+J2a2b	J-M163	J2a2	M163	M166																							
+J2a3	J-M68	J2a or J2a11	M68																								
+J2a4	J-M137	J2a or J2a11	M137																								
+J2a5	J-M158	J2a or J2a11	M158																								
+J2a6	J-M289	J2a or J2a11	M289																								
+J2a7	J-M318	J2a or J2a11	M318																								
+J2a8	J-M319	J2a or J2a11	M319																								
+J2a9	J-M339	J2a or J2a11	M339																								
+J2a10	J-M340	J2a or J2a11	M340																								
+J2a12	J-P81	J2a or J2a11	P81																								
+J2a13	J-P279	J2a or J2a11	P279																								
+J2b	J-M12*	J2	M12	M102	M221	M314																					
+J2b1	J-M205	J2b	M205																								
+J2b2 or J2b2a	J-M241* or J-M99	J2b	M241																								
+J2b2b	J-M280	J2b2 or J2b2a	M280																								
+J2b2c	J-M321	J2b2 or J2b2a	M321																								
+J2b2d	J-P84	J2b2 or J2b2a	P84																								
+INGE06	INGE06-M9*	INGE05	M9	P128	P131	P132																					
+LT	LT-P326*	INGE06	P326																								
+T	T-M184*	LT	M184	M272	PS129																						
+T1	T-M70*	T	M70	Page78																							
+T1a	T-L208*	T1	L208	Page21																							
+T1a1	T-M320	T1a	M320																								
+T1a2	T-P77	T1a	P77																								
+T1a3	T-P330	T1a	P330																								
+T1a4	T-P321*	T1a	P321																								
+T1a4a	T-P317	T1a4	P317																								
+T1b	T-L131*	T1	L131																								
+T1b1	T-P322*	T1b	P322	P328																							
+T1b1a	T-P327	T1b1	P327																								
+L or L2	L-M11* or L-M317*	LT	M11	M20	M22	M61	M185	M295																			
+L1	L-M27*	L or L2	M27	M76																							
+L2a	L-M349	L or L2	M349																								
+L2b	L-M274	L or L2	M274																								
+L3	L-M357*	L	M357																								
+L3a	L-PK3	L3	PK3																								
+K or K1	K-M526* or K-M147	INGE06	M526																								
+K2	K-P60	K or K1	P60																								
+K3	K-P79	K or K1	P79																								
+K4	K-P261	K or K1	P261	P263																							
+M	M-P256*	K or K1	P256																								
+M1	M-M4*	M	M4	M5	M106	M189	M296	P35.1	P35.2	P35.3																	
+M1a	M-P34*	M1	P34.1	P34.2	P34.3	P34.4																					
+M1a1	M-P51	M1a	P51																								
+M1a2	M-P94	M1a	P94																								
+M1b or M1b1	M-P87* or M-P22*	M1	P87																								
+M1b1a	M-M16	M1b or M1b1	M16																								
+M1b1b	M-M83	M1b or M1b1	M83																								
+M2	M-M353*	M	M353	M387																							
+M2a	M-M177	M2	M177																								
+M3	M-P117	M	P117																								
+NO	NO-M214*	K or K1	M214	P188	P192	P193	P194	P195																			
+N or N1 or N1a	N-M231* or N-LLY22g* or N-M128	NO	M231																								
+N1b or N1b1	N-P43* or N-P63	N or N1 or N1a	P43																								
+N1c	N-Tat*	N or N1 or N1a	Tat	P105																							
+N1c1	N-M178*	N1c	M178																								
+N1c1a	N-P21	N1c1	P21.1	P21.2	P21.3																						
+N1c1b	N-P67	N1c1	P67.1	P67.2	P67.3																						
+N1c1c	N-P119	N1c1	P119																								
+O or O1	O-M175* or O-MSY2.2*	NO	P186	P191	P196																						
+O1a or O1a1	O-M119* or O-P203*	O or O1	M119																								
+O1a1a	O-M101	O1a or O1a1	M101																								
+O1a2	O-M50	O1a or O1a1	M50	M103	M110																						
+O2	O-P31*	O or O1	P31	M268																							
+O2a	O-PK4*	O2	PK4																								
+O2a1	O-M95*	O2a	M95																								
+O2a1a	O-M88	O2a1	M88																								
+O2b	O-SRY465*	O2	SRY465	P49	-22454																						
+O2b1	O-47z	O2b	47z																								
+O3	O-M122*	O or O1	M122	P198																							
+O3a or O3a4	O-M324* or O-M121	O3	M324	P93	P197	P199	P200																				
+O3a1 or O3a1a	O-L127* or O-M121	O3a or O3a4	L127	KL1	KL2																						
+O3a1b	O-M164	O3a1 or O3a1a	M164																								
+O3a1c	O-002611*	O3a1 or O3a1a	-2611																								
+O3a1c1	O-P103	O3a1c	P103																								
+O3a2	O-P201*	O3a or O3a4	P201																								
+O3a2a	O-M159	O3a2	M159																								
+O3a2b	O-M7*	O3a2	M7																								
+O3a2b1	O-M113*	O3a2b	M113	M209																							
+O3a2b1a	O-N4	O3a2b1	N4																								
+O3a2b1b	O-N5	O3a2b1	N5																								
+O3a2c or O3a2c1 or O3a2c1a or O3a2c1a1	O-P164* or O-M134* or O-M117* or O-M162	O3a2	P164																								
+O3a2c1b	Q-P101	O3a2c or O3a2c1 or O3a2c1a or O3a2c1a1	P101																								
+O3a3	O-P300	O3a	M300																								
+P	P-92R7*	K or K1	M45	M74	P27.1.1	P69	P207	P226	P228	P230	P235	P237	P239	P240	P243	P244	P281	P282	P283	P284	P295						
+Q	Q-M242*	P	M242																								
+Q1	Q-P36.2*	Q	P36.2																								
+Q1a or Q1a4	Q-MEH2* or Q-P48	Q1	MEH2																								
+Q1a1	Q-M120	Q1a or Q1a4	M120	N14																							
+Q1a2	Q-M25	Q1a or Q1a4	M25	M143																							
+Q1a3	Q-M346*	Q1a or Q1a4	M346																								
+Q1a3a	Q-M3*	Q1a3	M3																								
+Q1a3a1	Q-M19	Q1a3a	M19																								
+Q1a3a2	Q-M194	Q1a3a	M194																								
+Q1a3a3	Q-P106	Q1a3a	P106																								
+Q1a3a4	Q-SA01	Q1a3a	SA01																								
+Q1a5	Q-P89	Q1a or Q1a4	P89.1	P89.2																							
+Q1a6	Q-M323	Q1a or Q1a4	M323																								
+Q1b	Q-M378	Q1	M378																								
+R	R-M207*	P	M207	M306	P224	P227	P229	P232	P280	P285																	
+R1	R-M173*	R	M173	P231	P233	P234	P236	P238	P242	P286	P294																
+R1a	R-M420*	R1	M420	M449	M511	M513																					
+R1a1	R-SRY10831.2*	R1a	SRY10831.2	M448	M459	M516																					
+R1a1a	R-M198	R1a1	M198	M417	M512	M514	M515	Page07																			
+R1a1a1	R-M56	R1a1a	M56																								
+R1a1a2	R-M157.1	R1a1a	M157.1																								
+R1a1a3	R-M87	R1a1a	M87	M204																							
+R1a1a4	R-P98	R1a1a	P98																								
+R1a1a5	R-PK5	R1a1a	PK5																								
+R1a1a6	R-M434	R1a1a	M434																								
+R1a1a7	R-M458*	R1a1a	M458																								
+R1a1a7a	R-M334	R1a1a7	M334																								
+R1a1a8	R-Page68	R1a1a	Page68																								
+R1a1a9	R-Z280	R1a1a	Z280																								
+R1a1a10	R-93	R1a1a	Z93																								
+R1b	R-M343*	R1	M343																								
+R1b1	R-P25*	R1b	P25.3																								
+R1b1a or R1b1a1	R-V88* or R-M18	R1b1	V88																								
+R1b1a2	R-V8	R1b1a or R1b1a1	V8																								
+R1b1a3	R-V35*	R1b1a or R1b1a1	V35																								
+R1b1a3a	R-V7	R1b1a3	V7																								
+R1b1a4	R-V69	R1b1a or R1b1a1	V69																								
+R1b1b	R-P297*	R1b1	P297																								
+R1b1b1	R-M478	R1b1b	M478																								
+R1b1b2	R-M269*	R1b1b	M269																								
+R1b1b2a	R-L23*	R1b1b2	L23																								
+R1b1b2a1	R-M412*	R1b1b2a	M412																								
+R1b1b2a1a	R-P310*	R1b1b2a1	P310	P311	S127																						
+R1b1b2a1a1	R-U106*	R1b1b2a1a	U106																								
+R1b1b2a1a1a	R-U198	R1b1b2a1a1	U198																								
+R1b1b2a1a1b	R-P107	R1b1b2a1a1	P107																								
+R1b1b2a1a2	R-P312*	R1b1b2a1a	P312																								
+R1b1b2a1a2a	R-M37	R1b1b2a1a2	M37																								
+R1b1b2a1a2b	R-M65	R1b1b2a1a2	M65																								
+R1b1b2a1a2c	R-M153	R1b1b2a1a2	M153																								
+R1b1b2a1a2d	R-SRY2627	R1b1b2a1a2	SRY2627																								
+R1b1b2a1a2e	R-M529*	R1b1b2a1a2	M529																								
+R1b1b2a1a2e1	R-M222	R1b1b2a1a2e	M222																								
+R1b1b2a1a2f	R-P66	R1b1b2a1a2	P66.1	P66.2	P66.3																						
+R1b1b2a1a2g or R1b1b2a1a2g1	R-U152* or R-M126	R1b1b2a1a2	U152																								
+R1b1b2a1a2g2	R-M160	R1b1b2a1a2g or R1b1b2a1a2g1	M160																								
+R1b1c	R-M335	R1b1 or R1b1a	M335																								
+R2	R-M479*	R	M479																								
+R2a	R-M124	R2	M124	P249	P267																						
+S or S1	S-M230* or S-M254*	K or K1	M230	P202	P204																						
+S1a	S-P57	S or S1	P57																								
+S1b	S-P61	S or S1	P61																								
+S1c	S-P83	S or S1	P83																								
+S1d	S-M226	S or S1	M226																								
